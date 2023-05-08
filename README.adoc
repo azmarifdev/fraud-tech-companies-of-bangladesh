@@ -1,0 +1,123 @@
+# Fraud Tech Companies of Bangladesh
+
+A list of tech companies that don't pay salaries properly and cheat their employees in various ways
+
+(যেসব টেক কোম্পানিগুলো তাদের কর্মীদের সঠিকভাবে বেতন দেয় না এবং বিভিন্ন উপায়ে তাদের সাথে প্রতারণা করে, তাদের একটি তালিকা। যাতে করে চাকরি প্রার্থীরা তাদের সম্পর্কে সতর্ক হতে পারে। ) 
+
+## How to add a new Company?
+* Fork the repository.
+* Add the company in alphabetical order.
+* Create pull request.
+
+## List of Companies
+
+Source: https://www.facebook.com/groups/talkjs.net/permalink/2234239396769784/
+
+|===
+|Serial No |Company Name |Complain Against Them | Web presence
+
+|1
+|Gain Solutions Ltd
+|শেষ মাসে যে কয়দিন ছিলাম, পাইনাই এখনও, প্রতি মাসে ফিক্সড ডেট নাই কোন! রেকমেন্ড করবো না এদের. Also management and leadership also have lackings. Ref: https://www.facebook.com/groups/talkjs.net/posts/2234239396769784/?comment_id=2235258643334526[Complain 1], 
+https://www.facebook.com/groups/talkjs.net/posts/2234239396769784/?comment_id=2235247970002260[Complain 2]
+|https://gain.solutions/[Website]
+
+
+|2
+|Cramstack
+|150k Salary Due https://www.facebook.com/groups/talkjs.net/posts/2234239396769784/?comment_id=2235280043332386[Complain]
+|[Website]
+
+|3
+|HandyMama
+|it's a long time that I forgot the due amount. Probably around 20k-30k https://www.facebook.com/groups/talkjs.net/posts/2234239396769784/?comment_id=2235280043332386[Complain]
+|https://handymama.co/[Website]
+
+|4
+|Nextive Solution
+|আমার পাওনা টাকা কয়েকমাস ঘুরাইয়া দিছে।
+তাও আবার, ২৫০০, ৫০০০, ৭৫০০, ১০০০০ এমন করে করে দিছে।
+তাও আবার বিকাশের খরচ দেয় নাই।
+শুরুতেই এইসব আজেবাজে কোম্পানিতে ঢুকলে পোলাপানের ক্যারিয়ার নষ্ট হয়ে যাবে তাই এদেরকে চিন্হিত করা উচিৎ। 
+https://www.facebook.com/groups/talkjs.net/posts/2234239396769784/?comment_id=2235251180001939[Complain]
+|[Website]
+
+|5
+|WAN IT Bangladesh WAN It Ltd
+|বাটপার কোম্পানি। কোন মাসে ঠিকমতো স্যালারি দেয় না। জব ছাড়ার সময় লাস্ট মান্থের স্যালারি কাওকে দেয় না। এ কোম্পানিতে চাকরি করার সময় আমি করনা আক্রান্ত হই তখন কিনা আমার টাকা-পয়সার অনেক দরকার ছিলো কিন্তু তারপরও ফুল স্যালারি দেয় নাই। এদের বাটপারির কথা বলে শেষ করা যাবে না। এখনো ওদের কাছে 35k+ পাওনা আছে কিন্তু আমি আশা ছেড়ে দিয়েছি।
+https://www.facebook.com/groups/talkjs.net/posts/2234239396769784/?comment_id=2235262780000779[Complain]
+|[Website]
+
+|6
+|System Decoder
+|system decoder এবং mmitsoft আমার দেখা দুইটা বাটপার কোম্পানি। system decoder এর মালিক পলাতক। তার নামে থানায় জিডি করা আছে।
+https://www.facebook.com/groups/talkjs.net/posts/2234239396769784/?comment_id=2235285893331801[Complain]
+|[Website]
+
+|7
+|Venture solutions limited
+|
+https://www.facebook.com/groups/talkjs.net/posts/2234239396769784/?comment_id=2235243773336013[Complain]
+|[Website]
+
+|8
+|Spring Soft IT 
+|They hire people for 7days trial which is unpaid. but in reality people have to work for more than 15days. The company assign advance projects like HRM, eCommerce and get the work done. and after that they will kick you out of their company without any payment.
+https://www.facebook.com/groups/talkjs.net/posts/2234239396769784/?comment_id=2235235816670142[Complain]
+|[Website]
+
+|9
+|Parallaxlogic InfoTech
+|amk eikhane select kore sob kisu tiktak kore offer letter email korbe bole r dey nai amar 1week somoy nosto korse
+https://www.facebook.com/groups/talkjs.net/posts/2234239396769784/?comment_id=2235255003334890&reply_comment_id=2235264160000641[Complain 1]
+eder moto unprofessional Kew nai....era sobai k germants worker mone kore.
+https://www.facebook.com/groups/talkjs.net/posts/2234239396769784/?comment_id=2235255003334890&reply_comment_id=2235269563333434[Complain 2]
+|[Website]
+
+|10
+|London Academy of IT
+|I've seen them scamming interns by signing agreement to pay and then changing it suddenly to not pay them after making them work as junior developer instead of interns.
+https://www.facebook.com/groups/talkjs.net/posts/2234239396769784/?comment_id=2235272206666503[Complain]
+|[Website]
+
+|11
+|United IT Solution Ltd.
+|I've seen them scamming interns by signing agreement to pay and then changing it suddenly to not pay them after making them work as junior developer instead of interns.
+https://www.facebook.com/groups/talkjs.net/posts/2234239396769784/?comment_id=2235272206666503[Complain]
+|[Website]
+
+|12
+|Bangladesh Microtechnology Limited
+|
+|[Website]
+
+|13
+|HalTech Limited
+|
+|[Website]
+
+|14
+|NEXT IT
+|
+|[Website]
+
+|15
+|SRRK IT
+|
+|[Website]
+
+|16
+|CT Health Ltd
+|
+|[Website]
+
+|17
+|Flyte Solution
+|
+|[Website]
+
+|18
+|Crafted System
+|
+|[Website]
+
