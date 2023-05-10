@@ -11,13 +11,14 @@ A list of tech companies that don't pay salaries properly and cheat their employ
 
 #### OR
 ## Submit Complain Annonymously
-Submit Complain: https://forms.gle/hZzqZ94VyPdEAarUA[Fill the Google Form]
+Submit Complain: https://forms.gle/hZzqZ94VyPdEAarUA[Google Form]
 
 See the list of companies: https://docs.google.com/spreadsheets/d/1xJVO3Bgu7b0DUBUYYb18kP5PZEiWiliJm4g4P0k49xI/edit?usp=sharing[See in Google Sheet]
 
 ## List of Companies
 
-Source: https://www.facebook.com/groups/talkjs.net/permalink/2234239396769784/
+Source: https://www.facebook.com/groups/talkjs.net/permalink/2234239396769784/ 
+(পোস্টটি কয়েক ঘণ্টা পরেই গ্রুপ থেকে delete করে দেয়া হয়।) 
 
 |===
 |Serial No |Company Name |Complain Against Them | Web presence
